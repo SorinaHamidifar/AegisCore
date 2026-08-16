@@ -1,1 +1,1 @@
- for secure and scalable projects.
+and scalable projects.
