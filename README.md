@@ -1,1 +1,1 @@
- this repository serves as a foundation for secure and scalable projects.
+ for secure and scalable projects.
